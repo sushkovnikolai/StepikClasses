@@ -1,0 +1,3 @@
+C:/Users/sushk/CLionProjects/StepikClasses/cmake-build-debug/CMakeFiles/StepikClasses.dir
+C:/Users/sushk/CLionProjects/StepikClasses/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sushk/CLionProjects/StepikClasses/cmake-build-debug/CMakeFiles/rebuild_cache.dir
